@@ -8,13 +8,13 @@ sites:
   - name: Juchify
     url: https://juchify.com
   - name: Taedonggang S1
-    url: https://taedonggang.dprk.org.pl
+    url: http://taedonggang.dprk.org.pl
   - name: Potonggang S2
-    url: https://potonggang.dprk.org.pl
+    url: http://potonggang.dprk.org.pl
   - name: Tumangang (1) S3
-    url: https://tumangang-1.dprk.org.pl
+    url: http://tumangang-1.dprk.org.pl
   - name: Tumangang (2) S3
-    url: https://tumangang-2.dprk.org.pl
+    url: http://tumangang-2.dprk.org.pl
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

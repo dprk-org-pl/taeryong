@@ -22,10 +22,8 @@ status-website:
   cname: status.dprk.org.pl
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status: Front Czhollima
+  name: "Status: Front Czhollima"
   introTitle: "Status stron i serwerów prowadzonych przez Front Czhollima"
-  introMessage: 
-  navbar:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

@@ -5,8 +5,10 @@ repo: taeryong # The name of this repository
 sites:
   - name: DPRK.org.pl
     url: https://dprk.org.pl
-  - name: Juchify
+  - name: Juchify.com
     url: https://juchify.com
+  - name: Pyonkoma.com
+    url: https://pyonkoma.com
   - name: Taedonggang S1
     url: http://taedonggang.dprk.org.pl
   - name: Potonggang S2

@@ -58,9 +58,9 @@
     "url": "http://taedonggang.dprk.org.pl",
     "icon": "https://favicons.githubusercontent.com/taedonggang.dprk.org.pl",
     "slug": "taedonggang-s1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 618,
     "timeMonth": 618,
     "timeYear": 618,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-10": 0
+    }
   },
   {
     "name": "Potonggang S2",

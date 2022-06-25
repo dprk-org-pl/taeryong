@@ -1,7 +1,7 @@
 url: https://dprk.org.pl
-status: up
-code: 200
-responseTime: 5358
-lastUpdated: 2022-06-24T23:30:45.002Z
+status: down
+code: 500
+responseTime: 2723
+lastUpdated: 2022-06-25T07:01:06.996Z
 startTime: Mon Nov 08 2021 15:37:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

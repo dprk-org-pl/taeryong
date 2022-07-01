@@ -1,7 +1,7 @@
 url: https://juchify.com
-status: up
-code: 200
-responseTime: 1023
-lastUpdated: 2022-06-30T23:09:57.514Z
+status: down
+code: 403
+responseTime: 130
+lastUpdated: 2022-07-01T05:53:25.553Z
 startTime: Tue Nov 09 2021 12:17:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
